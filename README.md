@@ -1,4 +1,22 @@
-# Exercice transitions 1
+# Exercice SMACSS 1
+
+## Installation
+
+Créez un fork du repository, puis clonez-le sur votre ordinateur.
+
+Installez les paquets NPM:
+
+```
+npm install
+```
+
+Lancez le serveur de développement:
+
+```
+npm run dev
+```
+
+## Consigne
 
 Réorganisez les déclarations CSS selon la méthode SMACSS.
 
