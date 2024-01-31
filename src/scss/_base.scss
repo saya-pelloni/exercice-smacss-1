@@ -25,10 +25,6 @@ a {
   text-decoration: none;
 }
 
-.branding {
-  line-height: 88px;
-}
-
 .prinav {
   display: flex;
   margin-right: -15px;
@@ -64,17 +60,4 @@ a {
 
 img {
   max-width: 100%;
-}
-
-.gallery-main {
-  margin-bottom: 15px;
-}
-
-.gallery-nav {
-  display: flex;
-  justify-content: space-between;
-}
-
-.gallery-nav-item {
-  width: calc(100% / 4 - 15px);
 }
