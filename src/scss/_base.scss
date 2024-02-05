@@ -25,37 +25,12 @@ a {
   text-decoration: none;
 }
 
-.prinav {
-  display: flex;
-  margin-right: -15px;
-}
-
-.prinav-link {
-  display: block;
-  padding: 0 15px;
-  color: #252525;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 88px;
-  text-transform: uppercase;
-}
-
 .category {
   color: #797979;
   font-size: 30px;
   font-weight: 400;
   line-height: 70px;
   text-transform: uppercase;
-}
-
-.breadcrumbs {
-  display: flex;
-  line-height: 70px;
-  text-transform: uppercase;
-}
-
-.breadcrumbs-link {
-  color: #252525;
 }
 
 img {
